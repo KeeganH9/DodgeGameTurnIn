@@ -1,0 +1,1 @@
+The new feature I added was instead of just the circle I added a new object with the triangle sprite and made it fall faster than the circle and in order to keep it balanced I lowered the rate at which it spawns into the game.
